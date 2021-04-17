@@ -22,6 +22,7 @@ a
     <a href="project.php">Projects</a>
     <a href="videos.php">Videos and Misc</a>
     <a href="profile.php">PROFILE</a>
+    <a href="index.php">CHAT HERE</a>
     <a href="logout.php">LOG OUT</a>
 </p>
 </nav>
